@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🔭 I’m currently studing Software Engineering at Federal University of Ceará
+- 🌱 I’m currently learning JavaScript, Golang, C, React, Java, Python and prototyping
+- 📫 How to reach me: @lucaswllnwork@gmail.com
+- ⚡ Fun fact: I know how to draw, fight muay thai, advanced math and english 😁
+
 <!--
 **Lazzure07/Lazzure07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
